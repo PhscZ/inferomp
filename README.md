@@ -1,2 +1,0 @@
-# inferomp
-inferhub + omp utils
